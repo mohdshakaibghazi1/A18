@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Day15\A18\A18\bin\Debug\A18.exe.config
+C:\Users\moham\source\repos\Day15\A18\A18\bin\Debug\A18.exe
+C:\Users\moham\source\repos\Day15\A18\A18\bin\Debug\A18.pdb
+C:\Users\moham\source\repos\Day15\A18\A18\obj\Debug\A18.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day15\A18\A18\obj\Debug\A18.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day15\A18\A18\obj\Debug\A18.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day15\A18\A18\obj\Debug\A18.exe
+C:\Users\moham\source\repos\Day15\A18\A18\obj\Debug\A18.pdb
